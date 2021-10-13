@@ -45,27 +45,13 @@
 10. Luoqin Liu; Jiezhi Wu*; Weidong Su; **Linlin Kang**; Lift and drag in three-dimensional steady viscous and compressible flow, Physics of Fluids, 2017, 29: 116105. 
 11. Shufan Zou; Jiezhi Wu*; Ankang Gao; Luoqin Liu; **Linlin Kang**; Yipeng Shi; On the concept and theory of induced drag for viscous and incompressible steady flow, Physics of Fluids, 2019, 31: 065106. 
 #### *Conference paper*  
-1. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-2. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
-3. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-4. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-5. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+1. **Linlin Kang**; Lorenzo Russo; Renato Tognaccini*; Jiezhi Wu; Weidong Su; Aerodynamic Force Breakdown Based on Vortex Force Theory, AIAA Scitech 2019 Forum, San Diego, California, 2019. 
 
-### **Soccer Career**
-#### *Championships*
-2014：中国科大-首研杯   
-2015：谁是球王-安徽赛区   
-2016：北美华人八校赛，省大学生联赛，中科大-八人制   
-2017：杭州市滨江区企业联赛      
-2018：安徽高校联赛    
-2019：G10夏季联赛，G10贺岁杯，海康集团联赛   
-2020：G6联赛，安徽高校联赛   
-#### *Personal Awards*   
-2014：中国科大-首研杯：金靴  
-2017：中国科大-冠军杯：金靴   
-2017：滨企：金球+金靴（并列）  
-2018：海康联赛：金靴  
-2019：纵贯贺岁杯：金靴   
-&emsp;&emsp;&emsp;G6联赛：金靴   
-&emsp;&emsp;&emsp;G10夏季联赛：金靴    
-2020：G6联赛：金球+金靴（并列）     
+### **Talks**
+
+
+### **Academic services**
++ 流体领域TOP期刊 Physics of Fluids 审稿专家
++ 《中国大百科全书》第三版《涡动力学》学科词条编辑工作 
+
+
