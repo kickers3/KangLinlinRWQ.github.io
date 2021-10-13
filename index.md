@@ -48,7 +48,11 @@
 1. **Linlin Kang**; Lorenzo Russo; Renato Tognaccini*; Jiezhi Wu; Weidong Su; Aerodynamic Force Breakdown Based on Vortex Force Theory, AIAA Scitech 2019 Forum, San Diego, California, 2019. 
 
 ### **Talks**
-
++ 2019.09 第八届国际流体物理研讨会，口头报告，西安
++ 2019.01 AIAA SciTech 2019 Forum，口头报告，美国洛杉矶
++ 2018.09 欧洲流体力学大会，口头报告，奥地利维也纳
++ 2018.08 第一届中国空气动力学大会，口头报告，绵阳
++ 2016.08 国际理论与应用力学大会，涡动力学分会，口头报告，法国马赛
 
 ### **Academic services**
 + 流体领域TOP期刊 Physics of Fluids 审稿专家
