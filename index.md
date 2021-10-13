@@ -33,11 +33,17 @@
 
 ### **Publications**  
 #### *Journal paper*  
-1. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015  
-2. **Ren W**, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016  
-3. Wu Q, **Ren W**, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015  
-4. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
-5. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
+1. **Linlin Kang**; Zerui Peng; Haibo Huang; Xi-Yun Lu; Weicheng Cui*; Active external control effect on the collective locomotion of two tandem self-propelled flapping plates, Physics of Fluids, 2021, 33: 101901 
+2. **Linlin Kang**; Weicheng Cui; Xi-Yun Lu; Haibo Huang*; Hydrodynamic force induced by vortex-body interactions in orderly formations of flapping tandem flexible plates, Physical Review Fluids, 2021, **under second review** 
+3. **Linlin Kang**; Lorenzo Russo; Renato Tognaccini*; Jiezhi Wu; Weidong Su; Aerodynamic force breakdown in reversible and irreversible components by vortex force theory, AIAA Journal, 2019, 57: 4623-4638. 
+4. **Linlin Kang**; Luoqin Liu; Weidong Su; Jiezhi Wu*; Minimum-domain impulse theory for unsteady aerodynamic force, Physics of Fluids, 2018, 30: 016107. 
+5. **Linlin Kang**; Luoqin Liu; Weidong Su; Jiezhi Wu*; A minimum-domain impulse theory for unsteady aerodynamic force with discrete wake, Theoretical and Applied Mechanics Letters, 2017, 7: 306-310. 
+6. Weicheng Cui*; **Linlin Kang**; On the construction of a theory of everything based on Buddhist cosmological model. Trends in Technical & Scientific Research, 2020, 3: 98-109. 
+7. Feng Mao; **Linlin Kang**; Jiezhi Wu; Jialong Yu; Ankang Gao; Weidong Su; Xi-Yun Lu*; A study of longitudinal processes and interactions in compressible viscous flows, Journal of Fluid Mechanics, 2020, 893: 0-A23. 
+8. Luoqin Liu; **Linlin Kang**; Jiezhi Wu*; Zonal structure of unbounded external-flow and aerodynamics, Fluid Dynamics Research, 2017, 49: 045508.
+9. Feng Mao; **Linlin Kang**; Luoqin Liu; Jiezhi Wu; A unified theory for gas dynamics and aeroacoustics in viscous compressible flows. Part I. Unbounded fluid, Acta Mechanica Sinica, 2021, **under review**
+10. Luoqin Liu; Jiezhi Wu*; Weidong Su; **Linlin Kang**; Lift and drag in three-dimensional steady viscous and compressible flow, Physics of Fluids, 2017, 29: 116105. 
+11. Shufan Zou; Jiezhi Wu*; Ankang Gao; Luoqin Liu; **Linlin Kang**; Yipeng Shi; On the concept and theory of induced drag for viscous and incompressible steady flow, Physics of Fluids, 2019, 31: 065106. 
 #### *Conference paper*  
 1. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
 2. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
