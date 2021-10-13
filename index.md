@@ -43,7 +43,7 @@
 8. Luoqin Liu; **Linlin Kang**; Jiezhi Wu*; Zonal structure of unbounded external-flow and aerodynamics, Fluid Dynamics Research, 2017, 49: 045508.
 9. Feng Mao; **Linlin Kang**; Luoqin Liu; Jiezhi Wu; A unified theory for gas dynamics and aeroacoustics in viscous compressible flows. Part I. Unbounded fluid, Acta Mechanica Sinica, 2021, **under review**
 10. Luoqin Liu; Jiezhi Wu*; Weidong Su; **Linlin Kang**; Lift and drag in three-dimensional steady viscous and compressible flow, Physics of Fluids, 2017, 29: 116105. 
-11. Shufan Zou; Jiezhi Wu*; Ankang Gao; Luoqin Liu; **Linlin Kang**; Yipeng Shi; On the concept and theory of induced drag for viscous and incompressible steady flow, Physics of Fluids, 2019, 31: 065106. 
+11. Shufan Zou; Jiezhi Wu*; Ankang Gao; Luoqin Liu; **Linlin Kang**; Yipeng Shi; On the concept and theory of induced drag for viscous and incompressible steady flow, Physics of Fluids, 2019, 31: 065106.                                                                                                                                                       
 #### *Conference paper*  
 1. **Linlin Kang**; Lorenzo Russo; Renato Tognaccini*; Jiezhi Wu; Weidong Su; Aerodynamic Force Breakdown Based on Vortex Force Theory, AIAA Scitech 2019 Forum, San Diego, California, 2019. 
 
