@@ -1,14 +1,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>任文奇</h1>
-      <p><b>中国科学技术大学，博士</b></p>
-      <p><b>海康威视研究院，高级算法工程师&战略合作经理</b></p>
-      <p><b>邮箱：renwenqi@hikvision.com</b></p>
-      <p><b>地址：杭州市滨江区阡陌路555号</b></p>
+      <h1>康林林</h1>
+      <p><b>北京大学，博士</b></p>
+      <p><b>西湖大学，助理研究员</b></p>
+      <p><b>邮箱：kanglinlin@westlake.edu.cn</b></p>
+      <p><b>地址：杭州市西湖区市龙山街18号</b></p>
     </td>
     <td width="25%">
-      <img src="/任文奇-形象照 - small.JPG" width="100%">
+      <img src="/KLL.jpg" width="100%">
     </td>
   </tr>
 </table>
