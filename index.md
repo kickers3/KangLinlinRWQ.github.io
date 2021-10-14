@@ -5,7 +5,7 @@
       <p><b>北京大学，博士</b></p>
       <p><b>西湖大学，助理研究员</b></p>
       <p><b>邮箱：kanglinlin@westlake.edu.cn</b></p>
-      <p><b>地址：杭州市西湖区市龙山街18号</b></p>
+      <p><b>地址：杭州市西湖区石龙山街18号</b></p>
     </td>
     <td width="25%">
       <img src="/KLL.jpg" width="100%">
@@ -48,11 +48,11 @@
 1. **Linlin Kang**; Lorenzo Russo; Renato Tognaccini*; Jiezhi Wu; Weidong Su; Aerodynamic Force Breakdown Based on Vortex Force Theory, AIAA Scitech 2019 Forum, San Diego, California, 2019. 
 
 ### **Talks**
-+ 2019.09 第八届国际流体物理研讨会，口头报告，西安
-+ 2019.01 AIAA SciTech 2019 Forum，口头报告，美国洛杉矶
-+ 2018.09 欧洲流体力学大会，口头报告，奥地利维也纳
-+ 2018.08 第一届中国空气动力学大会，口头报告，绵阳
-+ 2016.08 国际理论与应用力学大会，涡动力学分会，口头报告，法国马赛
++ 可压缩流动基本过程分解耦合理论及其应用，第八届国际流体物理研讨会，西安，2019
++ Aerodynamic Force Breakdown Based on Vortex Force Theory，AIAA SciTech 2019 Forum，美国洛杉矶，2019
++ The relation between vorticity-based and thermodynamic-based drag breakdown，欧洲流体力学大会，奥地利维也纳，2018
++ Vortex Force Theory for aerodynamic force decomposition，第一届中国空气动力学大会，绵阳，2018
++ A compressible finite-domain impulse theory for unsteady aerodynamic force，国际理论与应用力学大会，涡动力学分会，法国马赛，2016
 
 ### **Academic services**
 + 流体领域TOP期刊 Physics of Fluids 审稿专家
